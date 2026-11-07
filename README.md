@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Palvisha Changkakati — AI Engineer | Machine Learning · Generative AI · Data Science" width="100%" />
+<img src="./assets/banner.webp" alt="Palvisha Changkakati — AI Engineer | Machine Learning · Generative AI · Data Science" width="100%" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <h2>About Me. ✦</h2>
 
-<img src="./assets/about-orb.svg" align="right" width="230" alt="" />
+<img src="./assets/about-orb.webp" align="right" width="260" alt="" />
 
 I'm an AI Engineer with a background in Computer Science and Engineering, interested in designing and building practical AI solutions. My work and learning span machine learning, generative AI, data engineering, and intelligent applications.
 
